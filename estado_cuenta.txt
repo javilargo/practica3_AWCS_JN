@@ -1,0 +1,15 @@
+--------------------------------------------------
+               ESTADO DE CUENTA                   
+--------------------------------------------------
+ID: 1 | Super Cazu | Monto: 15000
+ID: 2 | Gasolinera EGS | Monto: 42000
+ID: 3 | Gimnasio Mundial | Monto: 45000
+ID: 4 | Google One | Monto: 8900
+ID: 5 | Farmacia Saba | Monto: 12500
+--------------------------------------------------
+Monto Total de Contado: 123400
+Monto con Interes (2.6%): 126608.4
+Cash Back (0.1%) aplicable en app: 123.4
+--------------------------------------------------
+Monto Final a Pagar: 126608.4
+--------------------------------------------------
